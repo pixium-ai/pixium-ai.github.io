@@ -2288,19 +2288,19 @@ input, select, textarea {
 			}
 
 		.icon.style1 {
-			color: #efa8b0;
+			color: #44c5cb;
 		}
 
 		.icon.style2 {
-			color: #c79cc8;
+			color: #fce315;
 		}
 
 		.icon.style3 {
-			color: #a89cc8;
+			color: #F53D52;
 		}
 
 		.icon.style4 {
-			color: #9bb2e1;
+			color: #FF9200;
 		}
 
 		.icon.style5 {
@@ -3789,6 +3789,7 @@ input, select, textarea {
 		
 		
 		.button1{
+			margin-top: 5px;
 			background-color: #1E90FF;
 			border-radius: 10px;
 		}
